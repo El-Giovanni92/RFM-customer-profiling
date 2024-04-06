@@ -30,3 +30,5 @@ The main objective of the project is to utilize the RFM index to identify custom
 
 4. Analyze the obtained results and utilize them to inform your marketing and advertising strategies.
 
+### Contributors:
+[vincenzobarreca](https://github.com/vincenzobarreca), [manuele1912](https://github.com/manuele1912), [g4lius](https://github.com/g4lius), [francescost02](https://github.com/francescost02), [gabrielezimmerhofer](https://github.com/gabrielezimmerhofer)
